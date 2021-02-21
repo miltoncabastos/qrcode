@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Miltão Dev";
+}
+
+@{
+    var base64 = Convert.ToBase64String(Model.Image);
+    var imgSrc = String.Format("data:image/jpeg;base64,{0}", base64);
+}
+
+<div class="text-center">
+    <h1 class="display-4">Miltão Dev</h1>
+    <h3>Me encontre no <a href="https://www.linkedin.com/in/miltoncabastos/">LinkedIn</a></h3>
+    <br/>
+    <p>Saiba como gerar um QR Code em C#, veja o código fonte</p>
+    <p>Obrigado Balta. Visite <a href="https://balta.io">balta.io</a></p>
+    <image src="@imgSrc"></image>
+</div>

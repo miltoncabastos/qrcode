@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\QrWeb.csproj",
+  "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\qrcode\\QrWeb.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,33 +15603,33 @@
   "RootNamespace": "QrWeb",
   "Documents": [
     {
-      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\qrcode\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\qrcode\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\qrcode\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\qrcode\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\qrcode\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projetos\\pessoais\\QrWeb\\qrcode\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
